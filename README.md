@@ -21,7 +21,3 @@ Wavelet denoising was used for signal enhancement, while EMD and PSD features we
 ## Recognition
 - **Best Presenter Award**, IEEE ICCTEIE 2025  
 - Indexed by **IEEE Xplore**
-
-## 🔗 Citation
-If you use or reference this work, please cite:
-> M. M. C. Nababan, *Enhanced PCG Classification Using Wavelet Denoising and Feature Optimization of EMD and PSD*, IEEE ICCTEIE, 2025.
